@@ -1,0 +1,4 @@
+﻿  GUESS MY NUMBER.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\GUESS MY NUMBER\GUESS MY NUMBER\GUESS MY NUMBER.cpp(8,6): warning C4101: level: неиспользованная локальная переменная
+  GUESS MY NUMBER.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\GUESS MY NUMBER\x64\Debug\GUESS MY NUMBER.exe
